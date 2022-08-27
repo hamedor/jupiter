@@ -1,0 +1,12 @@
+.focused{
+    outline: 5px solid green;
+    width: 371px;
+    height: 417px;
+    overflow: hidden;
+    margin: 2rem 1rem 0 1rem;
+    border-radius: 10px;
+}
+
+.hide{
+    display: none;
+}

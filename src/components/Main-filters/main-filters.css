@@ -1,0 +1,41 @@
+.filters{
+    display:flex;
+    justify-content: space-around;
+    pointer-events: none;
+    max-width: 35rem;
+    margin: 4rem auto;
+}
+.filter__item{
+    list-style-type: none;
+    pointer-events: all;
+    color:rgba(57,20,0,0.6392156862745098);
+}
+
+.mobileFilters{
+    display: none;
+}
+.active{
+    color:#16cd53;
+}
+
+@media (max-width: 1040px){
+    .filters{
+        display: none;
+    } 
+    .mobileFilters{
+        display: initial;
+        width: 18rem;
+        height: 2rem;
+        margin-top: 2rem;
+        border: 1px solid #f3d1bf;
+        border-radius: 5px;
+        appearance: none; 
+        overflow: hidden;
+        background: url('../../../public/triangle.svg') no-repeat;  
+        background-position: right .7rem top 50%, 0 0;
+        background-color: #fff;
+        color: rgba(57,20,0,0.6392156862745098 );
+        padding-left: 10px;
+        
+    }
+}

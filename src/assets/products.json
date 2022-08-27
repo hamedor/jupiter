@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "heading": "SOFA",
+            "type": "Design",
+            "img": "/works/books.png"   
+        },
+        {
+            "id": 2,
+            "heading": "KeyBoard",
+            "type": "Branding",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 3,
+            "heading": "Work Media",
+            "type": "Illustration",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 4,
+            "heading": "DDDone",
+            "type": "Motion",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 5,
+            "heading": "Abstract",
+            "type": "Design",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 6,
+            "heading": "HandP",
+            "type": "Branding",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 7,
+            "heading": "Architect",
+            "type": "Motion",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 8,
+            "heading": "CalC",
+            "type": "Design",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 9,
+            "heading": "Sport",
+            "type": "Branding",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 10,
+            "heading": "SOFA2",
+            "type": "Design",
+            "img": "/works/books.png"   
+        },
+        {
+            "id": 11,
+            "heading": "KeyBoard2",
+            "type": "Branding",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 12,
+            "heading": "Work Media2",
+            "type": "Illustration",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 13,
+            "heading": "DDDone2",
+            "type": "Motion",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 14,
+            "heading": "Abstract2",
+            "type": "Design",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 15,
+            "heading": "HandP2",
+            "type": "Branding",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 16,
+            "heading": "Architect2",
+            "type": "Motion",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 17,
+            "heading": "Calc2",
+            "type": "Design",
+            "img": "/works/books.png"  
+        },
+        {
+            "id": 18,
+            "heading": "Sport2",
+            "type": "Branding",
+            "img": "/works/books.png"  
+        }
+    ]
+}
