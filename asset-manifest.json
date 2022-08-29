@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jupiter/static/css/main.3f285404.css",
-    "main.js": "/jupiter/static/js/main.227f2917.js",
+    "main.css": "/jupiter/static/css/main.c353972c.css",
+    "main.js": "/jupiter/static/js/main.614eee7a.js",
     "static/js/787.81f5a191.chunk.js": "/jupiter/static/js/787.81f5a191.chunk.js",
     "static/media/Logo.svg": "/jupiter/static/media/Logo.680d90f05b17404e55bd7ab381650c0e.svg",
     "index.html": "/jupiter/index.html",
     "static/media/triangle.svg": "/jupiter/static/media/triangle.9abbbce74d4a9c09c854.svg",
-    "main.3f285404.css.map": "/jupiter/static/css/main.3f285404.css.map",
-    "main.227f2917.js.map": "/jupiter/static/js/main.227f2917.js.map",
+    "main.c353972c.css.map": "/jupiter/static/css/main.c353972c.css.map",
+    "main.614eee7a.js.map": "/jupiter/static/js/main.614eee7a.js.map",
     "787.81f5a191.chunk.js.map": "/jupiter/static/js/787.81f5a191.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f285404.css",
-    "static/js/main.227f2917.js"
+    "static/css/main.c353972c.css",
+    "static/js/main.614eee7a.js"
   ]
 }
