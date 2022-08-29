@@ -16,7 +16,5 @@ export const ProductsData = () =>{
         getProducts();
     },[])
 
-    
-
     return products;
 }

@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback} from "react";
+import {useEffect} from "react";
 import './main-products-template.css';
 
 export const MainproductsTemplateItem = ({e,items, deleteProduct, filter, selectedWatch}) =>{
@@ -20,7 +20,7 @@ export const MainproductsTemplateItem = ({e,items, deleteProduct, filter, select
     }, []);
 
     return(
-        <div id="div" tabIndex="0" onClick={() => toggle(e)} key={e.id} className={e.selected===true ? 'focused': 'product'}>
+        <div id="div" tabIndex="0" onClick={() => toggle(e)} key={e.id} className={e.selected===true ? 'product focused': 'product'}>
         <div  className="product__image">
             <img src={e.img} alt='product'></img>                        
             <p onClick={(e)=>filter(e)} id="type" className='product__type'>{e.type}</p>

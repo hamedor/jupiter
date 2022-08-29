@@ -5,11 +5,9 @@ export const MainFilters = ({filter, mobileFilter, itemsFilter}) =>{
 
     const [open, setOpen] = useState(true);
     
-
     const classToggle = () =>{
         setOpen(!open);
     }
-
 
     return(
         <>

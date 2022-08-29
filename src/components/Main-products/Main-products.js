@@ -8,7 +8,7 @@ export const MainProducts = ({itemsFilter, filteredList ,items, filter, data, de
     const [counter, setCounter] = useState(1);
 
     const Button = ()=>{
-        if(counter === items.length / 9){
+        if(counter >= items.length / 9){
             return(
                 <button disabled onClick={changeCounter} type="button">Load More</button>
             )
@@ -18,11 +18,9 @@ export const MainProducts = ({itemsFilter, filteredList ,items, filter, data, de
         )
     }
     
-
     const changeCounter = () =>{
         setCounter(counter + 1);
     }
-
 
     return(
         <>

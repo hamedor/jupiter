@@ -1,6 +1,6 @@
 import { MainFilters } from "../Main-filters/Main-filters";
 import { MainProducts } from "../Main-products/Main-products";
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect} from "react";
 import { ProductsData } from "../products-data"
 
 import './main.css'
@@ -11,7 +11,6 @@ export const Main = () =>{
     const [isActive, setIsActive] = useState(false);
     const [itemsFilter, setItemsFilter] = useState('Show All');
 
-    
     let data = ProductsData();
       
     useEffect(()=>{
@@ -54,7 +53,6 @@ export const Main = () =>{
        })
     }
     
-
     return(
         <main className='main'>
             <div className='_container'>
